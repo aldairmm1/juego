@@ -1,2 +1,2 @@
 # juego
-reposoitorio hecho en python
+repositorio hecho en python
